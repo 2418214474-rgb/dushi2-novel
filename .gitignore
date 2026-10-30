@@ -1,0 +1,10 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+*.tmp
+*.bak
+*.swp
+~$*
+
